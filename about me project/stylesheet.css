@@ -1,0 +1,23 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+body {
+  background-color:gray;
+}
+
+h1 {
+  color:gold;
+  font-size:64px;
+}
+
+h2 {
+  color:silver;
+  font-size:32px;
+}
+
+p {
+  color:white;
+}
